@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    printf("\nName \t : \t Aayushi Thapa");
+    printf("\nSAP ID \t : \t %d",590027447);
+    printf("\nCourse \t : \t BTech CSE");
+    printf("\nBatch Name \t : \t Batch%d",55);
+    return 0;
+}
